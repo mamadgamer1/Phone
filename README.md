@@ -28,4 +28,4 @@
 
 ```python3 -m pip install colorama``` To Install Colorama
 
-```python3 Phone.py``` To Run Phone
+```python3 Phone-info.py``` To Run Phone

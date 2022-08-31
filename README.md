@@ -2,6 +2,8 @@
 ## Phone Operator Finder And Country
 
 # How To Use It On Termux Android:
+Make Sure To Write Correct Phone Number , Else Wont Work
+
 ## Before you start make sure you have phonenumbers package , if you don't have it, don't worry just follow my steps:
 
 ```apt update```
@@ -29,3 +31,5 @@
 ```python3 -m pip install colorama``` To Install Colorama
 
 ```python3 Phone-info.py``` To Run Phone
+
+Make Sure To Write Correct Phone Number , Else Wont Work

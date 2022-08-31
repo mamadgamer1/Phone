@@ -32,4 +32,4 @@ Make Sure To Write Correct Phone Number , Else Wont Work
 
 ```python3 Phone-info.py``` To Run Phone
 
-Make Sure To Write Correct Phone Number , Else Wont Work
+Make Sure To Write Correct Phone Number , else Wont Work
